@@ -14,6 +14,10 @@ Git repository and various commands using a web project.
 
 Sample website with plenty of files for demos
 
+As stated above, the purpose of this project is to provide simple examples.
+
 ## Deployment
 
 ## How To Contribute
+
+Think again
