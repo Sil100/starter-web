@@ -20,7 +20,7 @@ As stated above, the purpose of this project is to provide simple examples.
 
 ## How To Contribute
 
-Think again
+Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
