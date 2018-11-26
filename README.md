@@ -26,4 +26,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
- 2018
+ 2018 All rights reserved.
